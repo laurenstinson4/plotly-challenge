@@ -1,0 +1,42 @@
+  h1 {
+    background-color: rgb(228,144,127);
+    padding: 20px;
+    font-size: 48px;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  p {
+      background-color: rgb(242,219,202);
+      padding: 10px;
+      font-size: 24px;
+      color: black;
+      text-align: center;
+      font-weight: bold;
+  }
+
+  p1 {
+    background-color: rgb(242,219,202);
+    padding: 0px;
+    font-size: 10px;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+  #bubble {
+      margin-top: -140px;
+  }
+
+  .panel {
+      background-color: rgb(230,230,230);
+  }
+
+  .panel-title {
+      color: black;
+  }
+
+  .well {
+      background-color: rgb(230,230,230);
+  }
