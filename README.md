@@ -1,4 +1,4 @@
-# Plot.ly Homework - Belly Button Biodiversity
+# Biodiversity and Plotly
 
 ![](Biodiversity.gif)
 
